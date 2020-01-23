@@ -1,0 +1,54 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Unnamed: 0</th>
+      <th>0</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>2020-01-01</td>
+      <td>0.935220</td>
+      <td>0.242612</td>
+      <td>0.109964</td>
+      <td>0.749365</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2020-01-02</td>
+      <td>0.499065</td>
+      <td>0.245088</td>
+      <td>0.021903</td>
+      <td>0.236804</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>2020-01-03</td>
+      <td>0.423637</td>
+      <td>0.337964</td>
+      <td>0.760251</td>
+      <td>0.130990</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>2020-01-04</td>
+      <td>0.716871</td>
+      <td>0.995770</td>
+      <td>0.251121</td>
+      <td>0.311547</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>2020-01-05</td>
+      <td>0.086790</td>
+      <td>0.875742</td>
+      <td>0.432293</td>
+      <td>0.524879</td>
+    </tr>
+  </tbody>
+</table>
